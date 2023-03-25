@@ -1,0 +1,5 @@
+***GIT DAY!***
+
+1. create a project
+2. create a Github Repo
+3. create a new commit for the first time
