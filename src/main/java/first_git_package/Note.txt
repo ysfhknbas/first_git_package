@@ -13,6 +13,8 @@
 5. adding specific files.
 *3. class
 *4. class
+6. git pull
+*git pull = git fetch+git merge
 
 
 
