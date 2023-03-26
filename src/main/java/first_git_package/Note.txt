@@ -2,4 +2,16 @@
 
 1. create a project
 2. create a Github Repo
-3. create a new commit for the first time
+3. create first commit for the first time
+*git init
+*git add .
+*git commit -m"message"
+*git branch -M main
+*git push -u origin main
+***code should be pushed
+4. create a new second commit
+
+
+
+
+git status
